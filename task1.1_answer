@@ -1,0 +1,7 @@
+git init
+git config
+git config
+git remote add origin https://github.com/Iulian-g/git_homework.git
+touch task1.1
+touch .gitignore
+task1.1_answer
