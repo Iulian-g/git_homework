@@ -5,3 +5,8 @@ git remote add origin https://github.com/Iulian-g/git_homework.git
 touch task1.1
 touch .gitignore
 task1.1_answer
+git clone https://github.com/Iulian-g/git_homework.git
+touch fileA
+touch fileB
+vim fileA Произвольная строчка кода в fileA
+vim fileB Вторая произвольная строчка кода в fileB
