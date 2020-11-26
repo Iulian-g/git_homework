@@ -10,3 +10,7 @@ touch fileA
 touch fileB
 vim fileA Произвольная строчка кода в fileA
 vim fileB Вторая произвольная строчка кода в fileB
+git pull
+vim fileA Еще одна строка
+rm fileB
+
